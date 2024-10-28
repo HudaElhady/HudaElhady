@@ -8,6 +8,5 @@ Hi, I’m Huda Elhady, a passionate iOS developer
  
  📫 How to reach me: 
    * LinkedIn: linkedin.com/in/huda-elhady
-   * Twitter: twitter.com/huda_elhady
 
  ⚡ Fun fact: I love squash and Big fan of Man United 
